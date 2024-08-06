@@ -17,7 +17,7 @@ title: The Data Science Experience
 email: matthew.delaune@gmail.com
 description: "Mastering Data Science and Machine Learning"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://mattdelaune.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mattdelaune.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mattdelaune
 linkedin_username: mdelaune
 logo: /assets/logo/logo_1.png
@@ -67,7 +67,7 @@ paginate_path: /page:num/
 
 
 # Google Analytics
-google_analytics: UA-77458218-1
+# google_analytics: UA-77458218-1
 
 
 # Build settings
