@@ -1,76 +1,78 @@
-# Machine Intelligence Blog (MIB)
+# The Data Science Experience Blog
 
-Machine Intelligence Blog (MIB) is your companion blog to get you up and running with machine learning and data science. On this blog, I will cover topics in the machine learning field ranging from maths, programming, algorithm optimization and data analysis.
+![blog landing page](assets/post_cont_image/blog_screenshot.png)
 
-## Getting Started
+**The Data Science Experience** is a blog designed to guide newcomers through the essentials of data science and machine learning. I cover key technical topics like coding, data analysis, math, probability and statistics, as well as tips on job hunting, networking, and professional development—everything beginners need to get started and thrive in the industry. This blog also serves as a way for me to internalize the knowledge I’m gaining, and it will evolve as I progress in my own data science career, offering insights that grow with us.
 
-If you are interested in using this blog to build your blog or simply contribute, you will need to install some tools on your machine.
+## Introduction
 
-### Prerequisites
+To contribute to this blog or create your own, you'll need to install some essential tools on your machine.
 
-To run this blog on you locale machine, you will need to install [Jekyll](https://jekyllrb.com), kindly refer to the installation process on the official website of jekyll [here](https://jekyllrb.com/docs/installation/).
+### System Requirements
 
-Sometimes it can be hard to know if jekyll is installed, to check if it is successfully installed run this command
+To run this blog locally, you will need to install [Jekyll](https://jekyllrb.com). Please refer to the installation instructions on the official Jekyll website [here](https://jekyllrb.com/docs/installation/).
+
+If you're unsure whether Jekyll is installed correctly, you can verify the installation by running this command
 
 ```bash
     jekyll -v
 ```
 
-if successfully installed you will get
+If Jekyll is installed successfully, you should see a confirmation message displaying the version number
 
 ```bash
     jekyll X.X.X
 ```
 
-here the x.x.x is the version of jekyll, and if you get this error
+If instead you encounter this error
 
 ```bash
 bad interpreter: No such file or directory
 ```
 
- it means that jekyll is not installed and this is probably due to the fact one or more of the dependencies to install jekyll was not installed. Kindly refer to [this](https://jekyllrb.com/docs/troubleshooting/#installation-problems) manual to fix the issue.
+ it indicates that Jekyll isn't installed, likely due to missing dependencies. To resolve this, please refer to the [troubleshooting guide](https://jekyllrb.com/docs/troubleshooting/#installation-problems) to fix the issue.
 
-### Run
+*Note: The gem wdm 0.1.0 should be commented out in the Gemfile for the blog to run locally (applies to Windows users).
 
-After this, you will clone this repo(or download it) then using the command line, navigate to the root directory and input this for the first time
+### Execution
+
+After ensuring Jekyll is installed, clone or download this repository. Then, navigate to the root directory using the command line and enter the following command for the initial setup:
 
 ```bash
     bundle exec jekyll serve
 ```
 
-to run jekyll after the first time, simply use
+To run Jekyll after the first setup, simply use this command:
 
 ```bash
     jekyll serve
 ```
 
-now you shall access to the blog at 127.0.0.1:4000 (or http://localhost:4000).
+You can then access the blog at **127.0.0.1:4000** (or **http://localhost:4000**).
 
-## Customize
+## Customization
 
-In order to customize this blog as you wish, you can clone this repo and for the documentation please refer to the official theme github page [here](https://github.com/mmistakes/jekyll-theme-basically-basic).
+If you wish to customize this blog, you can clone this repository and refer to the documentation on the official theme's GitHub page [here](https://github.com/mmistakes/jekyll-theme-basically-basic).
 
-## Deployment
+## Deployment Instructions
 
-To host your jekyll blog to github page, use [this](https://www.youtube.com/watch?v=fqFjuX4VZmU) tutorials.
+To host your Jekyll blog on GitHub Pages, you can follow this [tutorial.](https://www.youtube.com/watch?v=fqFjuX4VZmU)
 
-## Built With
+## Technology Stack
 
 * [Jekyll](https://jekyllrb.com) static site generator.
-* [this](https://github.com/mmistakes/jekyll-theme-basically-basic) jekyll theme.
-* [Disqus](https://disqus.com) as comment generator
-* [Google analytics](https://analytics.google.com/analytics/web) as the site analytics
-* [Algolia](https://www.algolia.com) as the search tool within the blog
-* [Jekyll feed](https://github.com/jekyll/jekyll-feed) as the atom RSS generator
-* [Jekyll seo](https://github.com/jekyll/jekyll-seo-tag) as the blog seo
-* [mailchimp](https://mailchimp.com) as mail newsletter subscriber service
+* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) jekyll theme.
+* [Disqus](https://disqus.com) for comments.
+* [Google Analytics](https://analytics.google.com/analytics/web) for site analytics.
+* [Algolia](https://www.algolia.com) for search functionality.
+* [Jekyll feed](https://github.com/jekyll/jekyll-feed) for generating the Atom RSS feed.
+* [Jekyll seo](https://github.com/jekyll/jekyll-seo-tag) for search engine optimization.
+* [mailchimp](https://mailchimp.com) for managing newsletter subscriptions.
 
-## Authors
+## Contributors
 
-* [semasuka](https://github.com/semasuka) - author and designer of the blog.
+* [Matt Delaune](https://github.com/mattdelaune)- Author and designer of the blog.
 
-* [mmistakes](https://github.com/mmistakes) - initial jekyll theme creator.
+* [mmistakes](https://github.com/mmistakes) - The initial jekyll theme creator.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/semasuka/blog/blob/master/LICENSE) file for details.
+And special thanks to [Semasuka](https://github.com/semasuka) for the inspiration and detailed help in constructing the blog. Please check out his blog and incredible project walkthroughs!

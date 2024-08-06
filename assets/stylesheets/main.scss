@@ -12,62 +12,62 @@ html {
 }
 
 a {
-    color: #539F30;
+    color: #133192;
 }
 
 a:hover {
-    color: #539F30;
+    color: #133192;
 }
 
 .layout--cv .entry a {
-    color: #539F30;
+    color: #133192;
 }
 
 .taxonomy-index a:hover {
-    color: #539F30;
+    color: #133192;
 }
 
 .sidebar li a:hover {
-    color: #539F30;
+    color: #133192;
 }
 
 .pager a {
-    background-color: #539F30;
+    background-color: #133192;
 }
 
 .pager a:hover {
-    background-color: #539F30;
+    background-color: #133192;
 }
 
 .entry-title .ais-Highlight {
-    color: #539F30;
+    color: #133192;
 }
 
 .entry-excerpt .ais-Highlight {
-    color: #539F30;
+    color: #133192;
 }
 
 .entry-meta .icon {
-    fill: #539F30;
+    fill: #133192;
 }
 .canvas {
     overflow: visible;
 }
 .entries-list .entry-title a:hover {
-    color: #539F30;
+    color: #133192;
 }
 
 .btn {
-    background-color: #539F30;
+    background-color: #133192;
     /* block button fills width of parent container */
 }
 
 .btn:hover {
-    background-color: #539F30;
+    background-color: #133192;
 }
 
 .btn:focus {
-    background-color: #539F30;
+    background-color: #133192;
 }
 
 .sidebar>.inner {
@@ -75,84 +75,84 @@ a:hover {
 }
 
 .icon--bitbucket {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--codepen {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--dribbble {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--email {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--facebook {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--flickr {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--github {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--gitlab {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--googleplus {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--instagram {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--lastfm {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--linkedin {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--pinterest {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--rss {
-    fill: #539F30;
+    fill: #133192;
     width: 10%;
 }
 
 .icon--soundcloud {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--stackoverflow {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--tumblr {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--twitter {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--xing {
-    fill: #539F30;
+    fill: #133192;
 }
 
 .icon--youtube {
-    fill: #539F30
+    fill: #133192
 }
 
 .entries-list .entry-title {
@@ -261,8 +261,8 @@ a:hover {
 
 @media (min-width: 64em) {
     .site-logo {
-        width: 400px;
-        height: 130px;
+        width: 70vw;
+        height: auto;
         margin-right: 0.5rem;
         border-radius: 0%;
     }
@@ -270,15 +270,15 @@ a:hover {
 
 @media (min-width: 31em) and (max-width: 64em) {
     .site-logo {
-        width: 300px;
-        height: 120px;
+        width: 60vw;
+        height: auto;
         margin-right: 0.5rem;
         border-radius: 0%;
     }
 }
 
 .search-toggle .icon:hover {
-    fill: #539F30;
+    fill: #133192;
     -webkit-box-transition: all 0.5s ease;
     -moz-box-transition: all 0.5s ease;
     transition: all 0.5s ease;
@@ -310,8 +310,8 @@ a:hover {
 
 @media (max-width: 31em) {
     .site-logo {
-        width: 245px;
-        height: 100px;
+        width: 80px;
+        height: auto;
         margin-right: 0.5rem;
         border-radius: 0%;
     }
@@ -349,7 +349,7 @@ a:hover {
 
 
 .copyright a:hover {
-    color: #407727;
+    color: #133192;
 }
 
 .share-page {
@@ -363,7 +363,7 @@ a:hover {
 
 .author-picture {
     width: 220px;
-    height: 215px;
+    height: 328px;
     border-radius: 50% !important;
 }
 
@@ -407,7 +407,7 @@ a:hover {
 }
 
 .pager a {
-    background-color: #539F30;
+    background-color: #133192;
     color: white;
     width: 35%;
     border: 0.7px dotted #d7d8da;
@@ -418,19 +418,19 @@ a:hover {
     -webkit-box-shadow: 9px 5px 52px -7px rgba(0, 0, 0, 0.52);
     -moz-box-shadow: 9px 5px 52px -7px rgba(0, 0, 0, 0.52);
     box-shadow: 9px 5px 52px -7px rgba(0, 0, 0, 0.52);
-    border: 1px solid #539F30;
+    border: 1px solid #133192;
 }
 
 .pager a:hover {
     -webkit-box-transition: all 0.5s ease;
     -moz-box-transition: all 0.5s ease;
     transition: all 0.5s ease;
-    background-color: rgb(52, 99, 30);
+    background-color: rgb(22, 53, 139);
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
     color: rgb(187, 187, 187);
-    border: 1px solid rgb(52, 99, 30);
+    border: 1px solid rgb(20, 38, 143);
 }
 
 #tag-icon {
@@ -451,7 +451,7 @@ a:hover {
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: #539F30;
+    background-color: #133192;
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -465,7 +465,7 @@ a:hover {
 }
 
 #myBtn:hover {
-    background-color: #3b7222;
+    background-color: #133192;
     -webkit-box-transition: all 0.5s ease;
     -moz-box-transition: all 0.5s ease;
     transition: all 0.5s ease;
@@ -477,6 +477,21 @@ a:hover {
 
 .intro-image {
     position: relative;
+    filter: brightness(3);
+    /*background-blend-mode: normal;*/
+}
+
+.intro-image::before {
+    display: none;
+  /*  
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2); /* Lighten or remove the overlay */
+    z-index: 1;
 }
 
 .scroll-down {

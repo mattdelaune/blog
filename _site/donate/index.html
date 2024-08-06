@@ -9,21 +9,22 @@
 
   
     
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>donate | MIB</title>
-<meta name="generator" content="Jekyll v3.9.0" />
+<meta name="generator" content="Jekyll v3.9.5" />
 <meta property="og:title" content="donate" />
-<meta name="author" content="Stern Semasuka" />
+<meta name="author" content="Matt Delaune" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Learn Machine Learning with projects" />
 <meta property="og:description" content="Learn Machine Learning with projects" />
 <link rel="canonical" href="http://localhost:4000/blog/donate/" />
 <meta property="og:url" content="http://localhost:4000/blog/donate/" />
 <meta property="og:site_name" content="MIB" />
+<meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="donate" />
 <script type="application/ld+json">
-{"author":{"@type":"Person","name":"Stern Semasuka"},"url":"http://localhost:4000/blog/donate/","@type":"WebPage","description":"Learn Machine Learning with projects","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/blog/assets/logo/logo_1.png"},"name":"Stern Semasuka"},"headline":"donate","@context":"https://schema.org"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Matt Delaune"},"description":"Learn Machine Learning with projects","headline":"donate","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/blog/assets/logo/logo_1.png"},"name":"Matt Delaune"},"url":"http://localhost:4000/blog/donate/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -251,7 +252,7 @@
   <div class="inner">
     <article class="entry-wrap">
       <div class="entry-content">
-        <p>Do you enjoy the content of this blog? kindly consider supporting the blog :)</p>
+        <p>Do you enjoy the content of this blog? kindly consider supporting the blog!</p>
 
       </div>
     </article>
@@ -273,9 +274,10 @@
     <footer id="footer" class="site-footer">
     <div class="inner">
       <div class="copyright">
-          <p></a>Copyright &copy; 2018-<script type="text/javascript">
+          <!-- <p></a>Copyright &copy; 2018-<script type="text/javascript">
             document.write(new Date().getFullYear());
-          </script></a>&#160;MIB.</br>Powered by <a href="https://jekyllrb.com/">Jekyll</a> & hosted with <span style="color: #e25555;">&#9829;</span> on <a href="https://pages.github.com/">GitHub page</a></p>
+          </script></a>&#160;MIB. -->
+          </br>Powered by <a href="https://jekyllrb.com/">Jekyll</a> & hosted on <a href="https://pages.github.com/">GitHub pages</a></p>
       </div>
     </div>
 </footer>
@@ -319,7 +321,7 @@ const hitTemplate = function(hit) {
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '.search-searchbar',
-    poweredBy: true,
+    
     placeholder: 'Enter your search term...'
   })
 );
@@ -337,6 +339,33 @@ search.start();
 </script>
 
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
 
   </body>
 

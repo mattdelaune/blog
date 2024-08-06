@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MIB
-email: ssemasuka@gmail.com
-description: "Learn Machine Learning with projects"
+title: The Data Science Experience
+email: matthew.delaune@gmail.com
+description: "Mastering Data Science and Machine Learning"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://semasuka.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  semasuka
-linkedin_username: stern-semasuka
+url: "https://mattdelaune.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  mattdelaune
+linkedin_username: mdelaune
 logo: /assets/logo/logo_1.png
 
 
 #disqus
 disqus:
-    shortname: semasuka-blog
+    shortname: matt-blog
 
 
 #search
@@ -46,7 +46,7 @@ algolia:
 
 #author
 author:
-  name: Stern Semasuka
+  name: Matt Delaune
   picture: /assets/profile/profile.jpg
 
 #default front matter
@@ -58,7 +58,7 @@ defaults:
     values:
       layout: "post"
       comments: true
-      author: "Stern Semasuka"
+      author: "Matt Delaune"
       read_time: true
 
 #pagination
