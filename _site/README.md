@@ -4,7 +4,7 @@
 
 **The Data Science Experience** is a blog designed to guide newcomers through the essentials of data science and machine learning. I cover key technical topics like coding, data analysis, math, probability and statistics, as well as tips on job hunting, networking, and professional development—everything beginners need to get started and thrive in the industry. This blog also serves as a way for me to internalize the knowledge I’m gaining, and it will evolve as I progress in my own data science career, offering insights that grow with us.
 
-# Getting Started
+## Getting Started
 
 To contribute to this blog or create your own, you'll need to install some essential tools on your machine.
 
