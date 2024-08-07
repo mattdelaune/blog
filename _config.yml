@@ -67,7 +67,7 @@ paginate_path: /page:num/
 
 
 # Google Analytics
-# google_analytics: UA-77458218-1
+# google_analytics: UA-77458218-1 #
 
 
 # Build settings
