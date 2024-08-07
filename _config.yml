@@ -25,16 +25,16 @@ logo: /assets/logo/logo_1.png
 
 #disqus
 disqus:
-    shortname: matt-blog
+    shortname: https-mattdelaune-github-io-blog
 
 
 #search
 search: true
 search_provider: algolia
 algolia:
-  application_id: 2G0E5ME37Q
-  index_name: Machine Learning Blog
-  search_only_api_key: afde2e91a28f543ce7c4afdefa8ecfbf
+  application_id: 7B3Q8BRM7D
+  index_name: Data Science Blog
+  search_only_api_key: f00ab70f9551919471723eaa5d23a584
   powered_by: false
   files_to_exclude:
     - archive.md
