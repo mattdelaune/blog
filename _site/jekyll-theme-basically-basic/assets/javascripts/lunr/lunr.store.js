@@ -239,10 +239,10 @@ var store = [{
         "tags": ["data science","beginner","introduction"],
         "url": "http://localhost:4000/blog/data-science/introduction/2024/08/06/welcome-to-the-data-science-experience.html"
       },{
-        "title": "5 Key Metrics Every Business Intelligence Analyst Should Track and How to Visualize Them in Power BI",
+        "title": "Essential BI Metrics for Business Growth: Visualizing Them in Power BI",
         "excerpt":"For Business Intelligence (BI) Analysts, data is only as good as the insights you can extract from it. With an overwhelming amount of data, tracking the right metrics is key to delivering actionable insights that drive strategic decisions. In this post, I’ll walk you through five essential metrics that every...","categories": ["data-science","introduction"],
         "tags": ["business intelligence","metrics","data visualization"],
-        "url": "http://localhost:4000/blog/data-science/introduction/2024/08/16/5-key-metrics-every-business-intelligence-analyst-should-track-and-how-to-visualize-them-in-power-bi.html"
+        "url": "http://localhost:4000/blog/data-science/introduction/2024/08/16/essential-bi-metrics-for-business-growth-visualizing-them-in-power-bi.html"
       },{
         "title": "The Art of Customer Segmentation: How to Target Your Marketing Efforts",
         "excerpt":"In the modern business landscape, data is power. However, raw data alone isn’t enough to drive meaningful decisions—it’s the ability to interpret and segment that data which allows businesses to unlock its true potential. This is especially true in marketing, where customer segmentation plays a pivotal role in targeting the...","categories": ["data-science","introduction"],
