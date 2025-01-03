@@ -5,15 +5,24 @@ permalink: /about/
 ---
 ## About the Author
 
-Welcome to The Data Science Experience! I'm Matt Delaune, a SaaS sales Account Executive at RoboMQ. and I'm passionate about using data science to make a real impact, especially in healthcare and biotech. As I shift from software sales to data science, I've realized that writing helps me break down complex ideas into simple, understandable terms—much like the [Feynman Technique](https://www.youtube.com/watch?v=_f-qkGJBPts).
+Welcome to The Data Science Experience! I’m Matt Delaune, a Data Analyst specializing in Marketing, Sales, and Revenue Operations Analytics. My career started in SaaS sales, where I quickly realized how powerful data can be in driving smarter decisions, improving processes, and uncovering growth opportunities. That realization set me on a path to dive deep into data analytics, business intelligence, and automation workflows—and I’ve been hooked ever since.
 
-I genuinely believe that with the right mindset and perseverance, anyone can grasp data science and machine learning, and start applying these tools to solve real-world problems. My goal here is to support you in that journey, every step of the way.
+In my current role as a Data Analyst at Auto Body Accelerator, I focus on building customer segmentation models, campaign performance dashboards, and automated reporting systems using tools like Power BI, SQL, and Excel (Power Query). My passion lies in bridging the gap between raw data and actionable insights, helping teams make informed decisions backed by clear, reliable analysis.
+
+I started this blog not just as a place to share technical knowledge, but as a way to simplify complex topics, document my journey, and make data analytics approachable for others—whether you’re just starting out or looking to sharpen your skills.
 
 ## What Makes This Data Science Blog Different?
 
-This blog is for the curious minds who might feel overwhelmed by the often intimidating world of data science. If you've ever felt lost in the technical jargon or assumed knowledge, this is the place for you.
+This blog isn’t about abstract theory or overly technical jargon—it’s about practical, hands-on learning rooted in real-world business scenarios.
 
-I’ve designed this blog to be a resource that starts at the very beginning, guiding you through the fundamentals without assuming prior expertise. From the basics of coding and machine learning, including the essential math, to SQL and data analysis, I cover it all. My posts are structured to take you on a learning journey—beginning with the most accessible concepts and gradually moving toward more advanced topics, all through practical, hands-on projects that you can follow at your own pace.
+Here’s what you’ll find:
+
+- Clear Explanations of Key Concepts: From SQL basics and Power BI dashboards to customer segmentation frameworks and campaign analysis techniques.
+- Step-by-Step Projects: Follow along with projects that mirror real-world challenges, complete with explanations, datasets, and actionable insights.
+- Beginner-Friendly Approach: No assumptions about prior knowledge—each topic starts with the fundamentals and builds up gradually.
+- Business Context: Every analysis is tied to practical outcomes—whether it’s improving conversion rates, reducing churn, or optimizing campaign budgets.
+
+This blog reflects the lessons I’ve learned in the field, and every post is designed to help you apply these skills in your own projects and career.
 
 ## Blog Overview
 
